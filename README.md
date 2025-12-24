@@ -1,4 +1,4 @@
-# Inflation_unemployment-casual_analysis
+# Inflation_unemployment-causal_analysis
 ## Causal Analysis of Interest Rates on GDP Growth
 
 This repository contains a Python implementation of a causal analysis examining the effect of **interest rates on GDP growth** using global macroeconomic data from 2010–2023. The analysis combines **Difference-in-Differences (DiD)** and **Double Machine Learning (DML)** to estimate causal effects.
