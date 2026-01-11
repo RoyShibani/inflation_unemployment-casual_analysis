@@ -3,7 +3,6 @@
 
 This repository contains a Python implementation of a causal analysis examining the effect of **interest rates on GDP growth** using global macroeconomic data from 2010–2023. The analysis combines **Difference-in-Differences (DiD)** and **Double Machine Learning (DML)** to estimate causal effects.
 
-This project was completed as a class project for a **Causal Inference** course and is included here as part of my academic portfolio for graduate program applications.
 
 ---
 
